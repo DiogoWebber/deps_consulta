@@ -1,9 +1,9 @@
 using System.Text;
+using Deps_Consulta.SharedKernel.Util;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
-using Deps_Consulta.SharedKernel.Util;
 
 namespace Deps_Consulta.Infrastructure.Identity;
 

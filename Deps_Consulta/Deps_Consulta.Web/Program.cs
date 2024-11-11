@@ -1,7 +1,6 @@
-using System.Text.Json;
-using Microsoft.OpenApi.Models;
 using Deps_Consulta.Core;
 using Deps_Consulta.Infrastructure;
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateSlimBuilder(args);
 
